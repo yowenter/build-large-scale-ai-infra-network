@@ -1,6 +1,10 @@
 # Build Large Scale AI Infra Network
 
 
+## Clos Network
+
+[Rail-only: A Low-Cost High-Performance Network for Training LLMs with Trillion Parameters](https://arxiv.org/pdf/2307.12169)
+
 
 ## RDMA Scale Farbic
 
